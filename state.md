@@ -12,7 +12,7 @@
 1. Refine and finalise the PRD — Owner: Sujit — Due: TBC
 
 ## Open Questions
-> Full options, trade-offs and recommendations: `open-questions.md`. 18 open, 12 block PRD sign-off (⚑).
+> Full options, trade-offs and recommendations: `open-questions.md`. 18 open, 11 block PRD sign-off (⚑).
 
 **⚑ First to close:** Q-01 in-session experience · Q-02 regulatory pathway · Q-03 wearable · Q-07 pilot customer and scope
 
