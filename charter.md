@@ -16,9 +16,9 @@
 Therapists today rely on memory and manual notes, and wearable data is scattered. BEST Platform gives therapists and supervisors a clear, objective view of each session that supports clinical judgment and never replaces it, and lets BEST sell this as a licensed platform to clinics.
 
 ## North Star Metric
-- **Metric:** TBC
-- **Current value:** TBC
-- **Target & date:** TBC
+- **Metric:** Not yet decided (tracked as open question Q-04)
+- **Current value:** —
+- **Target & date:** —
 
 ## Target Users
 | Segment | Core problem | Why they'd choose us |
@@ -36,9 +36,12 @@ Therapists today rely on memory and manual notes, and wearable data is scattered
 - **Data:** monitoring limited to the session window. Wearable integration vendor-agnostic, read-only, consent-based. Clients archived, never deleted.
 - **Alerts:** in-app only, fire on sustained trends, throttled.
 - **Platform:** MVP is web-only. Android and iOS in Phase 2.
-- **Budget / timeline:** TBC
+- **Budget:** Confidential. Not recorded here; the Chief PM should ask Sujit before any cost-sensitive recommendation.
+- **Timeline:** Not fixed. To be shaped in Chief PM working sessions (open question Q-05).
 
 ## Stakeholders
+> Named stakeholders to be added by Sujit.
+
 | Name | Role | What they care about | Decision rights |
 |---|---|---|---|
 | BEST Product Team | Client | TBC | Final acceptance, PRD scope |
