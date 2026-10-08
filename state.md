@@ -14,7 +14,9 @@
 ## Open Questions
 | ID | Question | Owner | Raised | Sessions untouched |
 |---|---|---|---|---|
-|  |  |  |  | 0 |
+| Q-01 | Regulatory status of live physiological alerts — do they cross into medical-device territory? | TBC | 2026-10-02 | 0 |
+| Q-02 | FDA device classification for the platform | TBC | 2026-10-02 | 0 |
+| Q-03 | Validation of consumer wearables for pediatric use — which device, and is its data reliable enough? | TBC | 2026-10-02 | 0 |
 
 ## Blockers & Risks
 | Item | Impact | Owner | Mitigation |
