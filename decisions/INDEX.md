@@ -13,5 +13,6 @@
 | D-005 | MVP AI limited to summary drafting | Definition | Active (pending BEST) | 2026-10-09 |
 | D-006 | Clarity fixes: drop 'clinical decision making', SpO₂ out, configurable thresholds, consent store | Definition | Active (pending BEST) | 2026-10-09 |
 | D-007 | North Star left out of revised PRD; Q-04 parked | Definition | Active | 2026-10-09 |
+| D-008 | Parents are users: read-only child history (confirmed summaries) in MVP | Definition | Active (pending BEST) | 2026-10-09 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending
