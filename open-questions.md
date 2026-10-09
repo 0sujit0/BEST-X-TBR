@@ -15,7 +15,7 @@
 | Q-01 | What does the therapist see during a session — live indicators, alerts, or nothing? | ⚑ | BEST + TBR | Q-02, Q-03 | TBR position → D-001; awaiting BEST |
 | Q-02 | What is the regulatory pathway — is any part of this an FDA medical device? | ⚑ | BEST | — | Open |
 | Q-03 | Which wearable, and is it tolerable and accurate for these children? | ⚑ | BEST + TBR | Q-01 | Open |
-| Q-04 | What is the North Star Metric? | ⚑ | BEST + TBR | Q-01 | Open |
+| Q-04 | What is the North Star Metric? | ⚑ | BEST + TBR | Q-01 | Parked → D-007 |
 | Q-05 | How should the delivery timeline be structured? | | TBR | Q-01, Q-07 | Open |
 | Q-06 | Who are the named stakeholders and who decides what? | ⚑ | BEST + TBR | — | Open |
 | Q-07 | Who is the pilot customer, and how much commercial scope does the pilot need? | ⚑ | BEST | — | Scope → D-002; pilot customer still open |

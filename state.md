@@ -13,7 +13,7 @@
 2. Get BEST answers on ⚑ questions using BEST_Open_Questions.xlsx — Owner: Sujit — Due: TBC
 
 ## Open Questions
-> Full options, trade-offs and recommendations: `open-questions.md`. 18 open, 11 block PRD sign-off (⚑).
+> Full options, trade-offs and recommendations: `open-questions.md`. 18 open, 10 block PRD sign-off (⚑).
 
 **⚑ First to close:** Q-01 in-session experience · Q-02 regulatory pathway · Q-03 wearable · Q-07 pilot customer and scope
 
@@ -22,7 +22,7 @@
 | Q-01 | In-session experience — TBR position D-001, awaiting BEST | ⚑ | 0 |
 | Q-02 | Regulatory pathway / FDA classification | ⚑ | 0 |
 | Q-03 | Wearable selection and child tolerance | ⚑ | 0 |
-| Q-04 | North Star Metric | ⚑ | 0 |
+| Q-04 | North Star Metric — parked (D-007), revisit before pilot | | 0 |
 | Q-05 | Timeline structure | | 0 |
 | Q-06 | Stakeholders and decision rights | ⚑ | 0 |
 | Q-07 | Pilot customer (scope settled TBR-side, D-002) | ⚑ | 0 |
