@@ -57,4 +57,4 @@
 - Logged D-001 to D-007 (alerts + telehealth kept with risks; lean pilot; AI = summaries; clarity fixes; North Star parked).
 - Drafted revised PRD v2.0 (docs/): Proposed markers, new 8.11 consent, 8.12 parameters, 21 risks, 22 pending inputs, change log.
 - Open questions file + Excel (docs/) ready for the BEST call.
-- D-008: parents become users (read-only child history in MVP); PRD v2.0 §8.13 added; overview doc updated; charter updated.
+- D-008 (parent user type) added then rolled back by D-009; PRD v2.0, overview doc and charter restored.

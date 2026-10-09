@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-09
 - **Phase:** Definition
-- **Status:** Active — Sujit's instruction; pending BEST confirmation
+- **Status:** Superseded by D-009 (rolled back 2026-10-09)
 - **Owner:** Sujit
 - **Supersedes:** — (changes charter "Not users" line and PRD v1 §4, §3, §12, §20.3)
 

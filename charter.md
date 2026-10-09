@@ -27,9 +27,8 @@ Therapists today rely on memory and manual notes, and wearable data is scattered
 | Supervisor (BCBA) | Reviews sessions across a caseload with thin data | Flagged sessions, trends, timelines to coach therapists |
 | Clinic admin | Manages staff, clients, licences and billing | One console per clinic, tenant-isolated |
 | BEST internal (platform/SRE, ops, finance) | Runs the platform for many clinics | Health, logs, incidents, billing exceptions |
-| Parent / guardian | No visibility into their child's therapy sessions | Read-only view of their child's confirmed session history (D-008) |
 
-**Not users:** children (the child wears the device but never uses the app), insurers. Parents became users on 2026-10-09 (D-008), approved by Sujit.
+**Not users:** parents, children (the child wears the device but never uses the app), insurers. (Parent access was briefly added as D-008 and rolled back by D-009.)
 
 ## Hard Constraints
 - **Clinical guardrail:** signals are reference only. No diagnosis, no treatment recommendations, no emergency language. Trends against age-appropriate baselines, not fixed thresholds.
