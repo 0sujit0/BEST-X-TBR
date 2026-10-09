@@ -9,7 +9,7 @@
 
 ## Top Priorities
 <!-- Max 3. Each with owner and due date. -->
-1. Review revised PRD v2.0 draft (docs/BEST_PRD_v2.0_Revised_Draft.docx) and send to BEST — Owner: Sujit — Due: TBC
+1. Review PRD v3.0 (docs/BEST_PRD_v3.0.docx) and send to BEST — Owner: Sujit — Due: TBC
 2. Get BEST answers on ⚑ questions using BEST_Open_Questions.xlsx — Owner: Sujit — Due: TBC
 
 ## Open Questions
@@ -20,7 +20,7 @@
 | ID | Question | ⚑ | Sessions untouched |
 |---|---|---|---|
 | Q-01 | In-session experience — TBR position D-001, awaiting BEST | ⚑ | 0 |
-| Q-02 | Regulatory pathway / FDA classification | ⚑ | 0 |
+| Q-02 | Regulatory pathway — closed: no counsel, wearable category internal (D-011) | | 0 |
 | Q-03 | Wearable selection and child tolerance | ⚑ | 0 |
 | Q-04 | North Star Metric — parked (D-007), revisit before pilot | | 0 |
 | Q-05 | Timeline structure | | 0 |
@@ -34,7 +34,7 @@
 | Q-13 | Scheduling source | | 0 |
 | Q-14 | Org Admin access to clinical data | | 0 |
 | Q-15 | Break-glass access rules | | 0 |
-| Q-16 | Plans vs entitlements ownership | | 0 |
+| Q-16 | Licensing ownership — closed: Platform Admin maintains licensing table (D-010) | | 0 |
 | Q-17 | Values for placeholder thresholds — TBR position D-006 | ⚑ | 0 |
 | Q-18 | Platform Admin vs SRE split | | 0 |
 
@@ -54,7 +54,6 @@
 
 ## Changes Since Last Session
 <!-- 2–4 lines. Full detail lives in the git commit. -->
-- Logged D-001 to D-007 (alerts + telehealth kept with risks; lean pilot; AI = summaries; clarity fixes; North Star parked).
-- Drafted revised PRD v2.0 (docs/): Proposed markers, new 8.11 consent, 8.12 parameters, 21 risks, 22 pending inputs, change log.
-- Open questions file + Excel (docs/) ready for the BEST call.
-- D-008 (parent user type) added then rolled back by D-009; PRD v2.0, overview doc and charter restored.
+- Team revision → PRD v3.0 (docs/): external AI summary API display, notification signal queue, wearable data format, licensing table (no payment), consent signed by parent with clinic staff, DEV/UAT/PRODUCTION three-branch strategy.
+- Removed: Phase 2, Future, AI Strategy, NFR, Finance user, Proposed tags, Pending BEST Input, regulatory counsel gate (D-010, D-011).
+- v2.0 draft and overview doc are now superseded by v3.0.
