@@ -19,16 +19,16 @@
 | Q-05 | How should the delivery timeline be structured? | | TBR | Q-01, Q-07 | Open |
 | Q-06 | Who are the named stakeholders and who decides what? | ⚑ | BEST + TBR | — | Open |
 | Q-07 | Who is the pilot customer, and how much commercial scope does the pilot need? | ⚑ | BEST | — | Scope → D-002; pilot customer still open |
-| Q-08 | What does "clinical decision making (basic)" mean? | ⚑ | BEST | Q-02 | Open |
-| Q-09 | How much AI is in the MVP? | ⚑ | BEST + TBR | Q-02 | Open |
-| Q-10 | Who gives consent for the child's data, and does it cover AI training? | ⚑ | BEST | — | Open |
-| Q-11 | Keep SpO₂ and the word "stress"? | | BEST + TBR | Q-02 | Open |
-| Q-12 | Is telehealth in the MVP? | ⚑ | BEST | Q-03, Q-10 | Open |
+| Q-08 | What does "clinical decision making (basic)" mean? | ⚑ | BEST | Q-02 | TBR position → D-006; awaiting BEST |
+| Q-09 | How much AI is in the MVP? | ⚑ | BEST + TBR | Q-02 | TBR position → D-005; awaiting BEST |
+| Q-10 | Who gives consent for the child's data, and does it cover AI training? | ⚑ | BEST | — | TBR position → D-006; awaiting BEST |
+| Q-11 | Keep SpO₂ and the word "stress"? | | BEST + TBR | Q-02 | TBR position → D-006; awaiting BEST |
+| Q-12 | Is telehealth in the MVP? | ⚑ | BEST | Q-03, Q-10 | TBR position → D-004; awaiting BEST |
 | Q-13 | How do session schedules get into the platform? | | BEST | — | Open |
 | Q-14 | Can Organization Admins see clinical session data? | | BEST | — | Open |
 | Q-15 | How does emergency (break-glass) access to PHI work? | | BEST + TBR | — | Open |
 | Q-16 | Who owns plans and entitlements — Finance or Platform Admin? | | BEST | — | Open |
-| Q-17 | What are the actual values behind "sustained", "≥ N sessions", "acceptable latency"? | ⚑ | BEST | Q-01 | Open |
+| Q-17 | What are the actual values behind "sustained", "≥ N sessions", "acceptable latency"? | ⚑ | BEST | Q-01 | TBR position → D-006; awaiting BEST |
 | Q-18 | Should Platform Admin and SRE be separate roles? | | TBR | — | Open |
 
 ---

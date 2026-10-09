@@ -26,16 +26,16 @@
 | Q-05 | Timeline structure | | 0 |
 | Q-06 | Stakeholders and decision rights | ⚑ | 0 |
 | Q-07 | Pilot customer (scope settled TBR-side, D-002) | ⚑ | 0 |
-| Q-08 | Meaning of "clinical decision making (basic)" | ⚑ | 0 |
-| Q-09 | AI scope in MVP | ⚑ | 0 |
-| Q-10 | Consent for child data and AI training | ⚑ | 0 |
-| Q-11 | SpO₂ and "stress" wording | | 0 |
-| Q-12 | Telehealth in MVP | ⚑ | 0 |
+| Q-08 | Meaning of "clinical decision making (basic)" — TBR position D-006 | ⚑ | 0 |
+| Q-09 | AI scope in MVP — TBR position D-005 | ⚑ | 0 |
+| Q-10 | Consent for child data and AI training — TBR position D-006 | ⚑ | 0 |
+| Q-11 | SpO₂ and "stress" wording — TBR position D-006 | | 0 |
+| Q-12 | Telehealth in MVP — TBR position D-004 | ⚑ | 0 |
 | Q-13 | Scheduling source | | 0 |
 | Q-14 | Org Admin access to clinical data | | 0 |
 | Q-15 | Break-glass access rules | | 0 |
 | Q-16 | Plans vs entitlements ownership | | 0 |
-| Q-17 | Values for placeholder thresholds | ⚑ | 0 |
+| Q-17 | Values for placeholder thresholds — TBR position D-006 | ⚑ | 0 |
 | Q-18 | Platform Admin vs SRE split | | 0 |
 
 ## Blockers & Risks
