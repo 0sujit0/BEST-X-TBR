@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-09
 - **Phase:** Definition
-- **Status:** Active — TBR position for revised PRD; pending BEST confirmation
+- **Status:** Superseded by D-011
 - **Owner:** Sujit
 - **Supersedes:** —
 - **Closes:** Q-01 (TBR side; BEST still to confirm)

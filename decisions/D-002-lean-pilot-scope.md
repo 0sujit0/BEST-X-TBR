@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-09
 - **Phase:** Definition
-- **Status:** Active — proposed in revised PRD; pending BEST confirmation
+- **Status:** Superseded by D-010
 - **Owner:** Sujit
 - **Supersedes:** —
 - **Closes:** Q-07 (TBR side; BEST still to confirm pilot customer)

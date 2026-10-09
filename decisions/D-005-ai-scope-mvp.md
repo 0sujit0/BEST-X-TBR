@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-09
 - **Phase:** Definition
-- **Status:** Active — proposed; pending BEST confirmation
+- **Status:** Superseded by D-010
 - **Owner:** Sujit
 - **Supersedes:** —
 - **Closes:** Q-09 (TBR side)
