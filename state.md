@@ -9,7 +9,8 @@
 
 ## Top Priorities
 <!-- Max 3. Each with owner and due date. -->
-1. Refine and finalise the PRD — Owner: Sujit — Due: TBC
+1. Draft revised PRD for BEST (per D-003) — Owner: Sujit — Due: TBC
+2. Get BEST answers on ⚑ questions using BEST_Open_Questions.xlsx — Owner: Sujit — Due: TBC
 
 ## Open Questions
 > Full options, trade-offs and recommendations: `open-questions.md`. 18 open, 11 block PRD sign-off (⚑).
@@ -18,13 +19,13 @@
 
 | ID | Question | ⚑ | Sessions untouched |
 |---|---|---|---|
-| Q-01 | In-session experience: indicators, alerts, or post-session only | ⚑ | 0 |
+| Q-01 | In-session experience — TBR position D-001, awaiting BEST | ⚑ | 0 |
 | Q-02 | Regulatory pathway / FDA classification | ⚑ | 0 |
 | Q-03 | Wearable selection and child tolerance | ⚑ | 0 |
 | Q-04 | North Star Metric | ⚑ | 0 |
 | Q-05 | Timeline structure | | 0 |
 | Q-06 | Stakeholders and decision rights | ⚑ | 0 |
-| Q-07 | Pilot customer and commercial scope | ⚑ | 0 |
+| Q-07 | Pilot customer (scope settled TBR-side, D-002) | ⚑ | 0 |
 | Q-08 | Meaning of "clinical decision making (basic)" | ⚑ | 0 |
 | Q-09 | AI scope in MVP | ⚑ | 0 |
 | Q-10 | Consent for child data and AI training | ⚑ | 0 |
