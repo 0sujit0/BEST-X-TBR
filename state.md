@@ -9,7 +9,7 @@
 
 ## Top Priorities
 <!-- Max 3. Each with owner and due date. -->
-1. Draft revised PRD for BEST (per D-003) — Owner: Sujit — Due: TBC
+1. Review revised PRD v2.0 draft (docs/BEST_PRD_v2.0_Revised_Draft.docx) and send to BEST — Owner: Sujit — Due: TBC
 2. Get BEST answers on ⚑ questions using BEST_Open_Questions.xlsx — Owner: Sujit — Due: TBC
 
 ## Open Questions
@@ -54,5 +54,6 @@
 
 ## Changes Since Last Session
 <!-- 2–4 lines. Full detail lives in the git commit. -->
-- Read the PRD (Final Rollout, unrevised) in full.
-- Created `open-questions.md`: 18 questions with options, trade-offs and recommendations. Q-01 refined to three in-session options (A/B/C).
+- Logged D-001 to D-007 (alerts + telehealth kept with risks; lean pilot; AI = summaries; clarity fixes; North Star parked).
+- Drafted revised PRD v2.0 (docs/): Proposed markers, new 8.11 consent, 8.12 parameters, 21 risks, 22 pending inputs, change log.
+- Open questions file + Excel (docs/) ready for the BEST call.

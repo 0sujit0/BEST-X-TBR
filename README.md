@@ -11,6 +11,7 @@ This repo is the working memory of an LLM acting as Chief Product Manager. Git h
 | `decisions/INDEX.md` | One-line index of all decisions | Every session |
 | `decisions/D-XXX-*.md` | Full decision entries | When relevant |
 | `archive/phase-*.md` | Compressed phase summaries | When history is needed |
+| `docs/` | Client-facing deliverables (revised PRD, open-questions workbook) | When relevant |
 
 ## Session Protocol
 1. **Start:** read charter, state and decision index. Confirm status in 2–3 lines before working.
