@@ -55,6 +55,6 @@
 
 ## Changes Since Last Session
 <!-- 2–4 lines. Full detail lives in the git commit. -->
-- Team revision → PRD v3.0 (docs/): external AI summary API display, notification signal queue, wearable data format, licensing table (no payment), consent signed by parent with clinic staff, DEV/UAT/PRODUCTION three-branch strategy.
-- Removed: Phase 2, Future, AI Strategy, NFR, Finance user, Proposed tags, Pending BEST Input, regulatory counsel gate (D-010, D-011).
-- v2.0 draft and overview doc are now superseded by v3.0.
+- User flows agreed for all four roles (D-012 to D-015); saved in flows/ with diagrams.
+- PRD v3.0 §7 rewritten with the agreed flows and 7 diagrams; BEST's original Users & Workflows diagram replaced.
+- Pending: Sujit's call on 4 unflagged removals (comparison doc); §8 not yet updated for new flow rules.
