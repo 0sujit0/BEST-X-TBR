@@ -30,6 +30,7 @@
 | Q-16 | Who owns plans and entitlements — Finance or Platform Admin? | | BEST | — | Open |
 | Q-17 | What are the actual values behind "sustained", "≥ N sessions", "acceptable latency"? | ⚑ | BEST | Q-01 | TBR position → D-006; awaiting BEST |
 | Q-18 | Should Platform Admin and SRE be separate roles? | | TBR | — | Open |
+| Q-19 | Which documents require supervisor approval? | | BEST | — | Open |
 
 ---
 
@@ -295,3 +296,18 @@
 | **B. Combined (as §18.2)** | Simpler for a small team. | Broad standing access. |
 
 **Chief PM recommendation:** A.
+
+---
+
+## Q-19 · Which documents require supervisor approval?
+**Owner:** BEST · **Raised:** 2026-10-12
+**PRD refs:** v3.0 §16.2 permission matrix ("approve permitted clinical documentation"); supervisor flow (D-013)
+
+| Option | Gains | Costs |
+|---|---|---|
+| **A. Every confirmed session summary** | Full oversight | Supervisor workload; delays |
+| **B. Only sessions with alerts, or chosen by the clinic** | Focused review | Needs a rule or setting |
+| **C. None in MVP — drop the approval action** | Simplest | Loses a step v1 listed |
+
+**Chief PM recommendation:** B, as a clinic-level setting.
+**Ask BEST:** Which documentation needs supervisor sign-off today?

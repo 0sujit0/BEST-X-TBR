@@ -37,6 +37,7 @@
 | Q-16 | Licensing ownership — closed: Platform Admin maintains licensing table (D-010) | | 0 |
 | Q-17 | Values for placeholder thresholds — TBR position D-006 | ⚑ | 0 |
 | Q-18 | Platform Admin vs SRE split | | 0 |
+| Q-19 | Supervisor documentation approval scope | | 0 |
 
 ## Blockers & Risks
 | Item | Impact | Owner | Mitigation |

@@ -18,5 +18,6 @@
 | D-010 | PRD v3.0: external AI summary API, notification queue, wearable data format, licensing table, DEV/UAT/PROD; Phase 2/Future/AI strategy/NFR/Finance/Proposed removed | Definition | Active | 2026-10-09 |
 | D-011 | No regulatory counsel; wearable category decided internally; alerts ungated | Definition | Active | 2026-10-09 |
 | D-012 | Therapist user flow agreed (flows/therapist.md) | Definition | Active | 2026-10-12 |
+| D-013 | Supervisor user flow agreed (flows/supervisor.md); approval scope open Q-19 | Definition | Active | 2026-10-12 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending
