@@ -21,5 +21,6 @@
 | D-013 | Supervisor user flow agreed (flows/supervisor.md); approval scope open Q-19 | Definition | Active | 2026-10-12 |
 | D-014 | Org Admin user and client onboarding flows agreed (flows/org-admin.md) | Definition | Active | 2026-10-12 |
 | D-015 | Back Office flows agreed: license lifecycle with expiry warning; break-glass with lapse (flows/back-office.md) | Definition | Active | 2026-10-12 |
+| D-016 | Sign-in and role routing agreed: lockout after 5 failed logins, supervisor/admin view switch (flows/sign-in.md) | Definition | Active | 2026-10-12 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending
