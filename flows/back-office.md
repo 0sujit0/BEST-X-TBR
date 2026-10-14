@@ -1,7 +1,7 @@
 # BEST Back Office flows — agreed 2026-10-12 (D-015)
 
 ## License lifecycle (Platform Admin)
-1. Onboard organization (tenant created)
+1. Clinic onboarded and approved (see flows/clinic-onboarding.md, D-018); tenant created
 2. Create license: plan, seats, dates, features
 3. License active: Org Admins can invite users; Platform Admin can edit seats/features or suspend
 4. Org Admins are warned before the end date (configurable, default 30 days)

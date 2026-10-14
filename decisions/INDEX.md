@@ -23,5 +23,6 @@
 | D-015 | Back Office flows agreed: license lifecycle with expiry warning; break-glass with lapse (flows/back-office.md) | Definition | Active | 2026-10-12 |
 | D-016 | Sign-in and role routing agreed: lockout after 5 failed logins, supervisor/admin view switch (flows/sign-in.md) | Definition | Active | 2026-10-12 |
 | D-017 | Therapist flow revised: therapist-recorded consent, AI checklist, pause/resume, auto-recording, transcript upload, attachments, statuses | Definition | Active | 2026-10-14 |
+| D-018 | Clinic onboarding: sales-assisted or self-onboarding, Platform Admin approval, BAA mandatory, new Key Account Manager role (flows/clinic-onboarding.md) | Definition | Active | 2026-10-14 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending

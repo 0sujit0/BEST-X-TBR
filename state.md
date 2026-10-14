@@ -56,5 +56,6 @@
 ## Changes Since Last Session
 <!-- 2–4 lines. Full detail lives in the git commit. -->
 - Therapist flow revised from team feedback (D-017, supersedes D-012); PRD §7.2, Figures 3–4 and diagrams PDF updated.
+- Clinic onboarding flow agreed (D-018); PRD §7.5 Figures 8–9, new Key Account Manager role in §4 and §16.2; license/break-glass now Figures 10–11.
 - Parked: D-014 conflict (Org Admin records consent vs therapist); Platform Admin settings (pause limit, checklist library); supervisor visibility of checklist/transcript/attachments.
 - Pending: Sujit's call on 4 unflagged removals; §8 not yet updated for flow rules.
