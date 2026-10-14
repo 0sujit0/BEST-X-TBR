@@ -4,7 +4,7 @@
 Today's sessions, uploads pending, summaries to confirm, supervisor notes/tasks.
 
 ## Running a session
-1. Select scheduled session. Alternative: mark no-show / cancelled with reason → nothing sent to AI.
+1. Select scheduled session. Alternative: mark no-show / cancelled; reason recorded, no summary (nothing sent to AI).
 2. Consent (mandatory, no session without it)
    - Not on file → therapist records it once per patient, uploads signed form
    - Withdrawn → therapist or Org Admin records date; no further sessions
