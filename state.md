@@ -3,7 +3,7 @@
 > Rewritten by the Chief PM at the end of every session. Keep under ~800 words.
 > When it crosses that, closed items move to `archive/`.
 
-**Last session:** 2026-10-09
+**Last session:** 2026-10-14
 **Current phase:** Definition — refining and finalising the PRD
 **Phase started:** TBC
 
@@ -55,6 +55,6 @@
 
 ## Changes Since Last Session
 <!-- 2–4 lines. Full detail lives in the git commit. -->
-- User flows agreed for all four roles (D-012 to D-015); saved in flows/ with diagrams.
-- PRD v3.0 §7 rewritten with the agreed flows and 7 diagrams; BEST's original Users & Workflows diagram replaced.
-- Pending: Sujit's call on 4 unflagged removals (comparison doc); §8 not yet updated for new flow rules.
+- Therapist flow revised from team feedback (D-017, supersedes D-012); PRD §7.2, Figures 3–4 and diagrams PDF updated.
+- Parked: D-014 conflict (Org Admin records consent vs therapist); Platform Admin settings (pause limit, checklist library); supervisor visibility of checklist/transcript/attachments.
+- Pending: Sujit's call on 4 unflagged removals; §8 not yet updated for flow rules.

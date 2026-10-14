@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-12
 - **Phase:** Definition
-- **Status:** Active
+- **Status:** Superseded by D-017
 - **Owner:** Sujit
 - **Supersedes:** —
 
