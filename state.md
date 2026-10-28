@@ -64,3 +64,4 @@
 - 28 Oct consolidation (D-020): PRD v3.1 with 11 redrawn figures and Appendix A; FSD v0.3 (role-first, S12 Roles list, BR-20–25); catalogue now 86 permissions (ACC-05 removed); alignment tracker shows 25 topics, 12 awaiting client, none unreflected.
 - Consent is recorded or renewed by the therapist or Org Admin (D-020).
 - FSD open points answered (D-021): role only; roles built from permission ticks with scope; 14 modules; Org Admin schedules sessions only. FSD v0.4 issued.
+- Master data for the rest of the platform decided (D-022); not yet reflected in PRD, catalogue or schema.

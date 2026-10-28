@@ -27,5 +27,6 @@
 | D-019 | Master data for user creation: one clinic and one role per user, combined custom role replaces view switch, multiple certifications, licence history | Definition | Active | 2026-10-28 |
 | D-020 | Documents consolidated with pending items marked; consent recorded by therapist or Org Admin | Definition | Active | 2026-10-28 |
 | D-021 | Permission model: role only, roles built from permission ticks with scope, 14 modules, Org Admin schedules sessions only | Definition | Active (awaiting BEST) | 2026-10-28 |
+| D-022 | Master data for the rest of the platform: consent items (clinic can add, non-blocking), assessment types by BEST, clinic sets assessment validity, profiles = age band + assessment level, checklist library, devices per location, BEST-only signal parameters, reason lists, client fields | Definition | Active (awaiting BEST) | 2026-10-28 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending
