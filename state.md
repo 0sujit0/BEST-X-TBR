@@ -52,6 +52,7 @@
 | Collect client answers on pending items (consent validity, pause, audio and recording, AI summary, assessments, session creation, onboarding, per-user permissions, module list) | Sujit | TBC | Open |
 | Update design mocks to FSD v0.4: S12 Roles list, "Start from", permission ticks with scope | TBR design | TBC | Open |
 | Merge Adithya's RBAC list into the permission catalogue when received | Sujit | TBC | Waiting |
+| Reflect D-022 master data in PRD §8.12/§8.13, catalogue and schema (kept open) | Sujit | TBC | Open |
 | Track drift in docs/BEST_Document_Alignment_Tracker.xlsx | Sujit | Ongoing | Open |
 
 ## Commitments Made
