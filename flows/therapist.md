@@ -41,3 +41,16 @@ Scheduled → In progress ⇄ Paused → Ended → Upload pending → Summary ge
 - Platform Admin: pause limit setting; library of client profiles and default checklists (owner assumed BEST).
 - Supervisor: whether checklist, transcript/recording and attachments are shown.
 - AI vendor API contract (checklist + summary); screen list.
+
+
+## Latest position — pending client confirmation (drafts 15, 18, 22 Oct; D-020)
+1. Select session (created by Scheduler or BCBA — pending); no-show / cancel with reason
+2. Valid consent on file? One check. Each consent item has a validity set by BEST per clinic; none on file → record (therapist or Org Admin); expired item → warning, session continues
+3. Current assessment? Blocking (within 6 months, configurable); assessment type set at client setup
+4. Checklist from AI vendor, else profile default from library
+5. In person: wearable + audio device linked. Online: parent guest link, call recorded (recording can be paused)
+6. Live: tick checklist, notes typed on screen, soft alerts (in person); pause = timeline mark, data/alerts/video continue, alert after 10 min; no auto-end on pause
+7. End: manual or window close
+8. Audio device sends audio by API (asynchronous); configurable wait; manual trigger when audio is missing, corrupted or late → summary without audio
+9. Attachments after session: PDF, text, JPG, video
+10. AI vendor returns summary; not editable; visible to supervisor straight away; therapist can add a note; failure → retry or write manually

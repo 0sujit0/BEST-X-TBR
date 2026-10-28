@@ -24,3 +24,10 @@ Draft → Submitted → Sent back / Rejected / Approved → Active → Suspended
 
 ## New role
 BEST Key Account Manager: share links; create, save, submit onboarding requests; no clinical data access.
+
+
+## Latest position — pending client confirmation (draft 21 Oct; D-020)
+- Phase 1: Key Account Manager fills the onboarding request; self-onboarding not in Phase 1
+- On approval: Org Admin account created with ID + temporary password (no sign-up link); MFA at every login for admins
+- Org Admin adds employees (role, permissions via roles); clinic active once at least one therapist and one supervisor exist
+- Consent items: BEST default set (two locked) + clinic additions (replaces "upload consent template")

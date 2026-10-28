@@ -1,14 +1,20 @@
-# Sign-in and routing — agreed 2026-10-12 (D-016)
+# Sign-in and routing — agreed 2026-10-12 (D-016), updated 2026-10-28 (D-019, D-020, FSD v0.3)
 
-## Sign-in
-1. Open web app → login screen
-2. Enter email and password (or reset password); first-time users arrive via invite link instead (see Org Admin: adding a user)
-3. Credentials valid? No → error; retry or reset. Account locks after repeated failed attempts (configurable, default 5) until password reset
-4. MFA required? Org Admin and BEST roles → enter MFA code
-5. Account active? No (deactivated) → access denied; contact clinic admin
-6. Signed in; session timeout returns to login (§8.1)
+## First login (new user)
+1. Welcome email: login ID (email), temporary password (valid 72 h, configurable), login link
+2. Enter ID and temporary password → valid and in time? No → error / expired (admin re-sends)
+3. Set new password (policy: 12+ chars, upper, lower, number, symbol; not last 5)
+4. MFA required? → enter email code
+5. Licence active? → home screen with permitted modules, else restricted mode
+
+## Later logins
+1. Login screen (no user-type choice); Forgot password → reset link (30 min)
+2. Credentials valid? No → error; locks after 5 failures until reset
+3. Account deactivated? → access denied, contact clinic admin
+4. MFA required? Mandatory for any role with admin access (Users & roles or Clinic settings); optional per user otherwise, set by the Org Admin → 6-digit email code (10 min)
+5. Licence active? No → view-only access incl. client details; grey screen + "License inactive · View only" label
+6. Home screen shows only permitted modules; auto-logout after 15 min idle (warning at 13)
 
 ## Routing
-1. Clinic users: organization license active? No (expired/suspended) → restricted mode, view records only (D-015). BEST staff skip this check
-2. Route by role: Therapist → session list; Supervisor → caseload; Org Admin → clinic console; BEST staff → back office
-3. Supervisor with Org Admin permission lands on caseload and can switch to the clinic console (single login)
+- By role to its home screen. One role per user (D-019); the Supervisor/Org Admin view switch is removed — a person with both duties gets a combined custom role.
+- BEST staff use the separate back-office portal.

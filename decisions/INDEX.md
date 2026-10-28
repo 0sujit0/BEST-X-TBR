@@ -19,11 +19,12 @@
 | D-011 | No regulatory counsel; wearable category decided internally; alerts ungated | Definition | Active | 2026-10-09 |
 | D-012 | Therapist user flow agreed (flows/therapist.md) | Definition | Superseded by D-017 | 2026-10-12 |
 | D-013 | Supervisor user flow agreed (flows/supervisor.md); approval scope open Q-19 | Definition | Active | 2026-10-12 |
-| D-014 | Org Admin user and client onboarding flows agreed (flows/org-admin.md) | Definition | Active | 2026-10-12 |
+| D-014 | Org Admin user and client onboarding flows agreed (flows/org-admin.md) | Definition | Active (consent recorder per D-020; user creation per FSD) | 2026-10-12 |
 | D-015 | Back Office flows agreed: license lifecycle with expiry warning; break-glass with lapse (flows/back-office.md) | Definition | Active | 2026-10-12 |
 | D-016 | Sign-in and role routing agreed: lockout after 5 failed logins, supervisor/admin view switch (flows/sign-in.md) | Definition | Active (view switch superseded by D-019) | 2026-10-12 |
-| D-017 | Therapist flow revised: therapist-recorded consent, AI checklist, pause/resume, auto-recording, transcript upload, attachments, statuses | Definition | Active | 2026-10-14 |
+| D-017 | Therapist flow revised: therapist-recorded consent, AI checklist, pause/resume, auto-recording, transcript upload, attachments, statuses | Definition | Active (later changes pending client, see D-020) | 2026-10-14 |
 | D-018 | Clinic onboarding: sales-assisted or self-onboarding, Platform Admin approval, BAA mandatory, new Key Account Manager role (flows/clinic-onboarding.md) | Definition | Active | 2026-10-14 |
 | D-019 | Master data for user creation: one clinic and one role per user, combined custom role replaces view switch, multiple certifications, licence history | Definition | Active | 2026-10-28 |
+| D-020 | Documents consolidated with pending items marked; consent recorded by therapist or Org Admin | Definition | Active | 2026-10-28 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending
