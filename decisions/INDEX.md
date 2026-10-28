@@ -26,5 +26,6 @@
 | D-018 | Clinic onboarding: sales-assisted or self-onboarding, Platform Admin approval, BAA mandatory, new Key Account Manager role (flows/clinic-onboarding.md) | Definition | Active | 2026-10-14 |
 | D-019 | Master data for user creation: one clinic and one role per user, combined custom role replaces view switch, multiple certifications, licence history | Definition | Active | 2026-10-28 |
 | D-020 | Documents consolidated with pending items marked; consent recorded by therapist or Org Admin | Definition | Active | 2026-10-28 |
+| D-021 | Permission model: role only, roles built from permission ticks with scope, 14 modules, Org Admin schedules sessions only | Definition | Active (awaiting BEST) | 2026-10-28 |
 
 **Status values:** Active · Superseded by D-0XX · Revisit pending

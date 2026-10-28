@@ -9,7 +9,7 @@
 
 ## Top Priorities
 <!-- Max 3. Each with owner and due date. -->
-1. Send PRD v3.1, FSD v0.3 and the permission catalogue to BEST; get confirmation on the pending items in PRD Appendix A.2 — Owner: Sujit — Due: TBC
+1. Send PRD v3.1, FSD v0.4 and the permission catalogue to BEST; get confirmation on the pending items in PRD Appendix A.2 — Owner: Sujit — Due: TBC
 2. Once confirmed, retire or rebuild the 14 Oct therapist and onboarding Word docs from PRD §7.2 / §7.5 — Owner: Sujit — Due: TBC
 3. Refresh BEST_Open_Questions.xlsx from PRD Appendix A.2 — Owner: Sujit — Due: TBC
 
@@ -48,9 +48,9 @@
 ## Next Actions
 | Action | Owner | Due | Status |
 |---|---|---|---|
-| Share PRD v3.1 + diagrams, FSD v0.3, permission catalogue | Sujit | TBC | Ready |
+| Share PRD v3.1 + diagrams, FSD v0.4, permission catalogue | Sujit | TBC | Ready |
 | Collect client answers on pending items (consent validity, pause, audio and recording, AI summary, assessments, session creation, onboarding, per-user permissions, module list) | Sujit | TBC | Open |
-| Add S12 Roles list and "Start from" to the design mocks | TBR design | TBC | Open |
+| Update design mocks to FSD v0.4: S12 Roles list, "Start from", permission ticks with scope | TBR design | TBC | Open |
 | Merge Adithya's RBAC list into the permission catalogue when received | Sujit | TBC | Waiting |
 | Track drift in docs/BEST_Document_Alignment_Tracker.xlsx | Sujit | Ongoing | Open |
 
@@ -63,3 +63,4 @@
 - Since 14 Oct: therapist feedback rounds (15, 18, 22 Oct drafts, with client), KAM-only onboarding, user creation and login FSD (v0.1 → v0.3), permission catalogue, role-first user creation, master data (D-019), MongoDB schema.
 - 28 Oct consolidation (D-020): PRD v3.1 with 11 redrawn figures and Appendix A; FSD v0.3 (role-first, S12 Roles list, BR-20–25); catalogue now 86 permissions (ACC-05 removed); alignment tracker shows 25 topics, 12 awaiting client, none unreflected.
 - Consent is recorded or renewed by the therapist or Org Admin (D-020).
+- FSD open points answered (D-021): role only; roles built from permission ticks with scope; 14 modules; Org Admin schedules sessions only. FSD v0.4 issued.
