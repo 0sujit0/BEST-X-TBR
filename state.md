@@ -52,7 +52,7 @@
 | Collect client answers on pending items (consent validity, pause, audio and recording, AI summary, assessments, session creation, onboarding, per-user permissions, module list) | Sujit | TBC | Open |
 | Update design mocks to FSD v0.4: S12 Roles list, "Start from", permission ticks with scope | TBR design | TBC | Open |
 | Merge Adithya's RBAC list into the permission catalogue when received | Sujit | TBC | Waiting |
-| Reflect D-022 master data in PRD §8.12/§8.13, catalogue and schema (kept open) | Sujit | TBC | Open |
+| Reflect D-022 master data in PRD §8.12/§8.13, catalogue and FSD §2.2 (schema done) | Sujit | TBC | Open |
 | Track drift in docs/BEST_Document_Alignment_Tracker.xlsx | Sujit | Ongoing | Open |
 
 ## Commitments Made
@@ -65,4 +65,4 @@
 - 28 Oct consolidation (D-020): PRD v3.1 with 11 redrawn figures and Appendix A; FSD v0.3 (role-first, S12 Roles list, BR-20–25); catalogue now 86 permissions (ACC-05 removed); alignment tracker shows 25 topics, 12 awaiting client, none unreflected.
 - Consent is recorded or renewed by the therapist or Org Admin (D-020).
 - FSD open points answered (D-021): role only; roles built from permission ticks with scope; 14 modules; Org Admin schedules sessions only. FSD v0.4 issued.
-- Master data for the rest of the platform decided (D-022); not yet reflected in PRD, catalogue or schema.
+- Master data for the rest of the platform decided (D-022); added to the MongoDB schema (now 26 collections). PRD and catalogue still to follow.
